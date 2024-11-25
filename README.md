@@ -324,7 +324,13 @@ echo "source \$HOME/.tenv.completion.fish" >> ~/.config/fish/config.fish
 
 
 Without subcommand `tenv` display interactive menus to manage tools and their versions.
-![example interactive mode usage](./docs/tenv.svg)
+<details>
+<summary>Click to see the GIF</summary>
+
+![Example GIF](https://raw.githubusercontent.com/Nmishin/tenv/refs/heads/fix/262/docs/tenv.svg)
+
+</details>
+
 
 <details><summary><b>tenv &lt;tool&gt; install [version]</b></summary><br>
 
